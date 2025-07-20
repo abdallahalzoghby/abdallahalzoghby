@@ -1,8 +1,7 @@
 <!-- Profile Views & Pro Badge -->
-<a href='https://github.com/pricing'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'>
-</a>
-![Profile views](https://komarev.com/ghpvc/?username=abdallahalzoghby&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdallahalzoghby&label=Profile+Views&color=blue&style=flat-square" alt="Profile views" />
+</p>
 
 <div align="center">
 
