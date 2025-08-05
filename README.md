@@ -25,8 +25,13 @@
 ---
 
 ## 🔗 **Connect with me:**
+<!-- Contact Information -->
 <p align="center">
-  📧 <a href="mailto:abdallahsoliman891@gmail.com" style="color: #D14836; text-decoration: none; font-weight: bold;">abdallahsoliman891@gmail.com</a>
+  📫 How to reach me: <a href="mailto:abdallahsoliman891@gmail.com">abdallahsoliman891@gmail.com</a>
+</p>
+
+<p align="center">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 </p>
 
 <p align="center">
@@ -37,25 +42,6 @@
     <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=react" alt="Portfolio">
   </a>
 </p>
-
----
-
-## 🚀 **Featured Projects**
-
-### ☕ **Smart Coffee Machine with ESP8266**
-Smart vending machine using ESP8266 microcontroller with Wi-Fi connectivity and MQTT remote control.
-- **Tech:** ESP8266, MQTT, C++, Wi-Fi, IoT
-- **[View Project](https://github.com/abdallahalzoghby/coffe_machine)**
-
-### 🏠 **Smart Home Management App**
-Comprehensive Flutter app for smart home device management with multi-language support.
-- **Tech:** Flutter, Dart, Cross-platform, UI/UX
-- **[View Project](https://github.com/abdallahalzoghby/smarthome)**
-
-### 🎮 **Pico2G4K Chess VR**
-Immersive VR chess game for Pico 2G 4K headset, built with Unity.
-- **Tech:** Unity, C#, VR, 3D Interaction
-- **[View Project](https://github.com/abdallahalzoghby/Pico2G4K-Chess)**
 
 ---
 
