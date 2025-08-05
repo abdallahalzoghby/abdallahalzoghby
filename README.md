@@ -26,10 +26,9 @@
 
 ## 🔗 **Connect with me:**
 <p align="center">
-  📧 <a href="mailto:abdallahsoliman891@gmail.com">abdallahsoliman891@gmail.com</a>  
-</p>
-
-<p align="center">
+  <a href="mailto:abdallahsoliman891@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://www.linkedin.com/in/abdallah-soliman-a57175274/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -49,6 +48,7 @@
   <img src="https://img.shields.io/badge/VR-Pico-2D6CDF?logo=vr&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/3D-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AR-ARCore-4285F4?logo=google&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NAO%20Robot-00A0E9?logo=robot&logoColor=white&style=for-the-badge" />
 </p>
 
 ### 🤖 **AI & Machine Learning**
