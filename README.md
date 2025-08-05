@@ -26,18 +26,18 @@
 
 ## 🔗 **Connect with me:**
 <p align="center">
-  📧 <a href="mailto:abdallah.elzoghby@gmail.com">abdallah.elzoghby@gmail.com</a>  
+  📧 <a href="mailto:abdallahsoliman891@gmail.com">abdallahsoliman891@gmail.com</a>  
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdallahalzoghby" target="_blank">
+  <a href="https://www.linkedin.com/in/abdallah-soliman-a57175274/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/abdallahalzoghby" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=react" alt="Portfolio">
+  </a>
+  <a href="https://wa.me/+201201148900" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
