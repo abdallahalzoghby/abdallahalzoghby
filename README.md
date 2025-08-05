@@ -14,7 +14,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Abdallah+El+Zoghby+%F0%9F%91%8B;AI+Engineer+%26+Game+Developer;Unity+%7C+VR+%7C+Blender+%7C+Flutter;Let's+Build+Immersive+Experiences+Together" alt="Headline" />
 
 <p>
-  🎮 <strong>Game Developer</strong> & 🤖 <strong>AI Engineer</strong> <br>
+  🎮 <strong>Game Developer</strong> & 🤖 <strong>AI Engineer</strong> & 🔧 <strong>Embedded Systems</strong> <br>
   Passionate about creating <strong>immersive VR worlds</strong>, blending <strong>AI</strong> and <strong>3D Design</strong> with Unity & Blender.  
   Always exploring <em>new tech to make creative ideas alive!</em> ✨
 </p>
@@ -26,9 +26,10 @@
 
 ## 🔗 **Connect with me:**
 <p align="center">
-  <a href="mailto:abdallahsoliman891@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  📧 <a href="mailto:abdallahsoliman891@gmail.com" style="color: #D14836; text-decoration: none; font-weight: bold;">abdallahsoliman891@gmail.com</a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/abdallah-soliman-a57175274/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -36,6 +37,25 @@
     <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=react" alt="Portfolio">
   </a>
 </p>
+
+---
+
+## 🚀 **Featured Projects**
+
+### ☕ **Smart Coffee Machine with ESP8266**
+Smart vending machine using ESP8266 microcontroller with Wi-Fi connectivity and MQTT remote control.
+- **Tech:** ESP8266, MQTT, C++, Wi-Fi, IoT
+- **[View Project](https://github.com/abdallahalzoghby/coffe_machine)**
+
+### 🏠 **Smart Home Management App**
+Comprehensive Flutter app for smart home device management with multi-language support.
+- **Tech:** Flutter, Dart, Cross-platform, UI/UX
+- **[View Project](https://github.com/abdallahalzoghby/smarthome)**
+
+### 🎮 **Pico2G4K Chess VR**
+Immersive VR chess game for Pico 2G 4K headset, built with Unity.
+- **Tech:** Unity, C#, VR, 3D Interaction
+- **[View Project](https://github.com/abdallahalzoghby/Pico2G4K-Chess)**
 
 ---
 
