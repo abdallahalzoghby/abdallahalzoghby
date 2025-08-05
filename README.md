@@ -11,12 +11,12 @@
 </p>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Abdallah+Alzoghby+%F0%9F%91%8B;Embedded+System+%26+IOT+Engineer;AI+Engineer+%26+Game+Developer;Let's+Build+Smart+Solutions+Together" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Abdallah+El+Zoghby+%F0%9F%91%8B;AI+Engineer+%26+Game+Developer;Unity+%7C+VR+%7C+Blender+%7C+Flutter;Let's+Build+Immersive+Experiences+Together" alt="Headline" />
 
 <p>
-  🤖 <strong>Embedded System & IOT Engineer</strong> & 🎮 <strong>AI Engineer</strong> <br>
-  Passionate about creating <strong>smart IoT solutions</strong>, <strong>embedded systems</strong>, and <strong>immersive VR experiences</strong>.  
-  Currently pursuing BSc in Artificial Intelligence at AASTMT (GPA: 3.2). <em>Turning innovative ideas into reality!</em> ✨
+  🎮 <strong>Game Developer</strong> & 🤖 <strong>AI Engineer</strong> <br>
+  Passionate about creating <strong>immersive VR worlds</strong>, blending <strong>AI</strong> and <strong>3D Design</strong> with Unity & Blender.  
+  Always exploring <em>new tech to make creative ideas alive!</em> ✨
 </p>
 
 <hr>
@@ -26,57 +26,24 @@
 
 ## 🔗 **Connect with me:**
 <p align="center">
-  📧 <a href="mailto:abdallahsoliman891@gmail.com">abdallahsoliman891@gmail.com</a>  
+  📧 <a href="mailto:abdallah.elzoghby@gmail.com">abdallah.elzoghby@gmail.com</a>  
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdallah-soliman-a57175274/" target="_blank">
+  <a href="https://linkedin.com/in/abdallahalzoghby" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/abdallahalzoghby" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://wa.me/+201201148900" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=react" alt="Portfolio">
   </a>
 </p>
 
 ---
 
-## 🚀 **Featured Projects**
-
-### ☕ **Smart Coffee Machine with ESP8266**
-Smart vending machine using ESP8266 microcontroller with Wi-Fi connectivity and MQTT remote control.
-- **Tech:** ESP8266, MQTT, C++, Wi-Fi, IoT
-- **[View Project](https://github.com/abdallahalzoghby/coffe_machine)**
-
-### 🏠 **Smart Home Management App**
-Comprehensive Flutter app for smart home device management with multi-language support.
-- **Tech:** Flutter, Dart, Cross-platform, UI/UX
-- **[View Project](https://github.com/abdallahalzoghby/smarthome)**
-
-### 🎮 **Pico2G4K Chess VR**
-Immersive VR chess game for Pico 2G 4K headset, built with Unity.
-- **Tech:** Unity, C#, VR, 3D Interaction
-- **[View Project](https://github.com/abdallahalzoghby/Pico2G4K-Chess)**
-
-### 🤖 **NAO Robot - Peer Ping Pong**
-Interactive ball-throwing game using NAO humanoid robot with tactile input.
-- **Tech:** NAO Robot, Python, ALMotion API
-- **[View Project](https://github.com/abdallahalzoghby/-Peer-Ping-Pong-project)**
-
----
-
 ## 🛠 **Tech Stack**
-
-### 🤖 **Embedded Systems & IoT**
-<p align="center">
-  <img src="https://img.shields.io/badge/ESP8266-NodeMCU-00979D?logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wi--Fi-000000?logo=wifi&logoColor=white" />
-</p>
 
 ### 🎮 **Game Development & VR**
 <p align="center">
@@ -84,6 +51,7 @@ Interactive ball-throwing game using NAO humanoid robot with tactile input.
   <img src="https://img.shields.io/badge/Code-C%23-239120?logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/VR-Pico-000000?logo=vr&logoColor=white" />
   <img src="https://img.shields.io/badge/3D-Blender-F5792A?logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/AR-ARCore-4285F4?logo=google&logoColor=white" />
 </p>
 
 ### 🤖 **AI & Machine Learning**
@@ -92,27 +60,39 @@ Interactive ball-throwing game using NAO humanoid robot with tactile input.
   <img src="https://img.shields.io/badge/ML-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
 </p>
 
-### 📱 **Web & Mobile Development**
+### 📱 **Mobile & Web Development**
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
 </p>
 
----
+### 🔧 **Embedded Systems & IoT**
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP8266-NodeMCU-00979D?logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wi--Fi-000000?logo=wifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white" />
+</p>
 
-## 🎓 **Education & Experience**
-- 🎓 **Bachelor of Artificial Intelligence** - AASTMT (GPA: 3.2)
-- 💼 **Industrial Trainee** at Wepco Petroleum Company
-- 🏆 **RoboCup Junior Competition** (4th Place)
-- 📜 **Machine Learning Certificate** (ITI)
-- 🌟 **Applied AI Workshops** (University of Technology)
-- 🔧 **Robotics & Electronics Training** (College of AI & AAST)
-- ☕ **Smart Vending Machine Project** (ESP8266 & IoT)
-- 🌐 **MQTT & Wi-Fi Integration Experience**
+### 🛠 **Tools & Platforms**
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+</p>
 
 ---
 
@@ -127,13 +107,6 @@ Interactive ball-throwing game using NAO humanoid robot with tactile input.
 </div>
 
 [![Abdallah's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdallahalzoghby&custom_title=My%20Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## ⚡ **Fun Quote**
-```yaml
-challenge: "Create smart IoT solutions and immersive experiences that make a difference!"
-```
 
 ---
 
