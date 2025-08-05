@@ -36,9 +36,6 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=react" alt="Portfolio">
   </a>
-  <a href="https://wa.me/+201201148900" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
 </p>
 
 ---
@@ -81,17 +78,14 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white" />
   <img src="https://img.shields.io/badge/Wi--Fi-000000?logo=wifi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white" />
 </p>
 
 ### 🛠 **Tools & Platforms**
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 </p>
 
 ---
