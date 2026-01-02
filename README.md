@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=react" alt="Portfolio">
+    <img src="https://abdallah-alzoghby-portfolio.netlify.app/" alt="Portfolio">
   </a>
 </p>
 
